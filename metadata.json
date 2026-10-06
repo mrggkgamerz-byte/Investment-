@@ -1,0 +1,6 @@
+{
+  "name": "অর্থধারা — প্রিমিয়াম বিনিয়োগ ও অ্যাসেট পোর্টফোলিও",
+  "description": "বাংলায় তৈরি সহজ ও নিরাপদ ডেমো বিনিয়োগ প্ল্যাটফর্ম। বিকাশ ও নগদের মাধ্যমে ডিপোজিট, উত্তোলন এবং সুরক্ষিত লেনদেন ট্র্যাকিং সুবিধা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
